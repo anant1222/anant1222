@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&show_icons=true)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anant1222&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anant1222&show_icons=true&locale=en&layout=compact" alt="aenq"/></p>
  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant1222&layout=compact&theme=dark&langs_count=18)
 
