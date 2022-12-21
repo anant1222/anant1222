@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&show_icons=true)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anant1222&show_icons=true&locale=en&layout=compact" alt="aenq"/></p>
  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant1222&layout=compact&theme=dark&langs_count=18)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant1222&layout=compact&theme=dark&langs_count=18) &ensp;&ensp;&ensp;&ensp;
 
 ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&theme=dark&show_icons=true)
 
-
+ 
 ## Find me on
 <p>
   <a href="mailto:anantkumary92gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
