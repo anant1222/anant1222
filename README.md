@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&show_icons=true)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anant1222&show_icons=true&locale=en&layout=compact" alt="aenq"/></p>
  -->
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant1222&layout=compact&theme=dark&langs_count=18) &ensp;&ensp;&ensp;&ensp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant1222&layout=compact&theme=dark&langs_count=18) &ensp;&ensp;&ensp;&ensp;
 
-![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&theme=dark&show_icons=true)</p>
+![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&theme=dark&show_icons=true)
 
  
 ## Find me on
