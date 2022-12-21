@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Find me on
 <p>
-  <a href="mailto:anantkumary92gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> <br />
-  <a href="https://www.linkedin.com/in/anant1222"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a> <br />
-  <a href="https://www.instagram.com/anant1222/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> <br />
-  <a href="https://open.spotify.com/user/31rslm3otyy4j7ekgzmoy5ixrxqm"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a> <br />
+  <a href="mailto:anantkumary92gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> &ensp;
+  <a href="https://www.linkedin.com/in/anant1222"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/anant1222/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://open.spotify.com/user/31rslm3otyy4j7ekgzmoy5ixrxqm"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
