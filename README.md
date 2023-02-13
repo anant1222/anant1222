@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anant1222
+- 👋 Hi, I’m @anant1222,  As a software engineer with 2 years of experience, I am skilled in developing robust applications using **NODEJS, ANGULARJS, MYSQL, POSTGRESSQL, MONGODB, REDIS,AWS-S3** and various 3rd party libraries. My expertise in these technologies enables me to build efficient, scalable, implementing database schemas and high-performance software solutions.With my knowledge and experience, I am confident in delivering high-quality software solutions that meet the unique needs of clients.
 - 👀 NodeJS Developer with 2 years experience.
 - 🌱 Extensive experience in Express framework.
 - 💞️ Extensive experience in relational databases such as PostgreSQL, MySQL and NoSQL database such as 
