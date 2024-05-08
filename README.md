@@ -1,37 +1,47 @@
-- 👋 Hi, I’m @anant1222,  As a software engineer with 2.9 years of experience, I am skilled in developing robust applications using **NODEJS, ANGULARJS, MYSQL, POSTGRESSQL, MONGODB, REDIS,AWS-S3** and various 3rd party libraries. My expertise in these technologies enables me to build efficient, scalable, implementing database schemas and high-performance software solutions.With my knowledge and experience, I am confident in delivering high-quality software solutions that meet the unique needs of clients.
-- 👀 NodeJS Developer with 2.9 years experience.
-- 🌱 Extensive experience in Express framework.
-- 💞️ Extensive experience in relational databases such as PostgreSQL, MySQL and NoSQL database such as 
-      MongoDB and Redis for database Cache.
-- 📫 Knowledge of JavaScript framework such as AngularJS.
-- 🤙Knowledge in JavaScript and its concepts.
+# 👋 Hi, I'm Anant Kumar (@anant1222)
 
+## About Me
+🔭 I'm a seasoned **NodeJS Developer** with **2.9 years of experience** in building robust applications. My technical toolkit includes:
+- **Backend**: Node.js, Express, FastAPI (Python)
+- **Frontend**: AngularJS
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Cloud & Deployment**: AWS S3, WebSockets
+- **Programming**: Proficient in JavaScript and Python
+- **APIs**: Extensive use of OpenAI APIs, including Assistant, Prompting, Threads, and Completion
 
+With a focus on creating efficient, scalable, and high-performance software solutions, I aim to deliver top-notch services tailored to meet client needs.
 
+## Technologies
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<!---
-anant1222/anant1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Detailed OpenAI API Experience
+- **OpenAI Assistant API**: Developed AI-driven chatbots and virtual assistants that understand context and manage ongoing conversations, providing helpful responses based on previous interactions.
+- **OpenAI Prompting**: Crafted effective prompts to guide AI models to generate desired outputs, mastering the nuances that influence AI responses.
+- **OpenAI Threads**: Utilized Threads to maintain context over long interactions, crucial for applications requiring continuity in dialogues.
+- **OpenAI Completion API**: Generated text completions for various applications, customizing AI responses by tuning parameters like temperature and max tokens.
 
-## Github Stats
+## Experience in Emerging Technologies
+- **Python**: 5 months of experience building APIs with FastAPI, and managing asynchronous communication with WebSockets.
+- **Web3**: Experience in decentralized applications using Synapse for service communication, Bittensor, and its subnet technologies.
+- **Neural Systems**: Developed validators and miners for Bittensor using their provided templates.
+- **Data Transmission**: Implemented Dendrite and Axon for efficient data sending and receiving.
 
+## 🌱 I'm currently learning
+- Advanced techniques in cloud services and optimizations
+- Latest updates in Angular and Node ecosystems
 
+## 📫 How to reach me:
+- **Email**: [anantkumary92@gmail.com](mailto:anantkumary92@gmail.com)
+- **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/anant1222)
+- **Instagram**: [Follow me on Instagram](https://www.instagram.com/anant1222/)
+- **Spotify**: [Check out my playlists](https://open.spotify.com/user/31rslm3otyy4j7ekgzmoy5ixrxqm)
 
-
-<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&show_icons=true)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anant1222&show_icons=true&locale=en&layout=compact" alt="aenq"/></p>
- -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anant1222&layout=compact&theme=dark&langs_count=18)
-
+## 📊 GitHub Stats
 ![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anant1222&theme=dark&show_icons=true)
-
- 
- 
- 
-## Find me on
-<p>
-  <a href="mailto:anantkumary92gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  <a href="https://www.linkedin.com/in/anant1222"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-  <a href="https://www.instagram.com/anant1222/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>&ensp;&ensp;&ensp;&ensp;&ensp;
-  <a href="https://open.spotify.com/user/31rslm3otyy4j7ekgzmoy5ixrxqm"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>&ensp;&ensp;&ensp;&ensp;&ensp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anant1222&layout=compact&theme=dark&langs_count=18)
