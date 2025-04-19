@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anant Kumar (@anant1222)
 
 ## About Me
-🔭 I'm a seasoned **NodeJS Developer** with **2.9 years of experience** in building robust applications. My technical toolkit includes:
+🔭 I'm a seasoned **NodeJS Developer** with **3.7 years of experience** in building robust applications. My technical toolkit includes:
 - **Backend**: Node.js, Express, FastAPI (Python)
 - **Frontend**: AngularJS
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
