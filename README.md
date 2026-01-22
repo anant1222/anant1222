@@ -19,6 +19,11 @@ With a focus on creating efficient, scalable, and high-performance software solu
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Open Interpreter](https://img.shields.io/badge/Open_Interpreter-4B0082?style=for-the-badge&logo=python&logoColor=white)
 
 ## Detailed OpenAI API Experience
 - **OpenAI Assistant API**: Developed AI-driven chatbots and virtual assistants that understand context and manage ongoing conversations, providing helpful responses based on previous interactions.
